@@ -27,7 +27,7 @@
                                                 </fo:table-cell>
                                             </fo:table-row>
                                             <!-- 循环受益人列表 一个受益人一个tablerow -->
-                                            <fo:table-row border="dashed">
+                                            <fo:table-row border-top="dashed">
                                                 <fo:table-cell>
                                                     <!-- 受益人， 一个受益人一个table 里面三个tablerow -->
                                                     <fo:table>
@@ -77,7 +77,7 @@
                                             <fo:table-row>
                                                 <fo:table-cell>
                                                     <!-- 受益人， 一个受益人一个table 里面三个tablerow -->
-                                                    <fo:table border="dashed">
+                                                    <fo:table border-top="dashed">
                                                         <fo:table-column column-width="50mm"/>
                                                         <fo:table-column column-width="50mm"/>
                                                         <fo:table-column column-width="50mm"/>
@@ -141,7 +141,7 @@
                                             <fo:table-row>
                                                 <fo:table-cell>
                                                     <!-- 受益人， 一个受益人一个table 里面三个tablerow -->
-                                                    <fo:table border="dashed">
+                                                    <fo:table border-top="dashed">
                                                         <fo:table-column column-width="50mm"/>
                                                         <fo:table-column column-width="50mm"/>
                                                         <fo:table-column column-width="50mm"/>
@@ -189,7 +189,7 @@
                                             <fo:table-row>
                                                 <fo:table-cell>
                                                     <!-- 受益人， 一个受益人一个table 里面三个tablerow -->
-                                                    <fo:table border="dashed">
+                                                    <fo:table border-top="dashed">
                                                         <fo:table-column column-width="50mm"/>
                                                         <fo:table-column column-width="50mm"/>
                                                         <fo:table-column column-width="50mm"/>
